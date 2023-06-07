@@ -2,6 +2,15 @@
 
 This project aims to analyze Diwali sales data to gain insights that can help improve customer experience and sales. By analyzing the data, we can identify trends, popular products, customer segments, and make data-driven decisions to enhance the overall sales performance during the Diwali season.
 
+![s1](https://github.com/MuskanSalmani/Diwali_sales_Analysis/assets/96484516/6b7eeb8f-13e9-40f9-8ac1-19915ec2cd3f)
+![s2](https://github.com/MuskanSalmani/Diwali_sales_Analysis/assets/96484516/a98f455a-e75f-471f-93ab-666d87e6be04)
+![s3](https://github.com/MuskanSalmani/Diwali_sales_Analysis/assets/96484516/1125ba78-b6eb-4afc-b9f5-6125bb06ced4)
+![s4](https://github.com/MuskanSalmani/Diwali_sales_Analysis/assets/96484516/ed4dc8e6-a55a-4f57-8222-81b035256aa7)
+![s5](https://github.com/MuskanSalmani/Diwali_sales_Analysis/assets/96484516/c1314f65-8578-44eb-9594-f65435687845)
+![s6](https://github.com/MuskanSalmani/Diwali_sales_Analysis/assets/96484516/cb0038a0-70a0-4cd6-8118-4bcfade55944)
+![s7](https://github.com/MuskanSalmani/Diwali_sales_Analysis/assets/96484516/26c93406-9090-4e87-bc18-4776ddb5c632)
+
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -32,6 +41,10 @@ The analysis performed on the Diwali sales data includes:
 - Sentiment analysis of customer feedback and reviews to gauge customer satisfaction and address any issues.
 - Recommendation system to suggest personalized products based on customer preferences.
 - Predictive modeling to forecast sales for the upcoming Diwali season.
+
+
+
+
 
 ## Results
 
